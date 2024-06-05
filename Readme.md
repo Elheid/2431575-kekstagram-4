@@ -1,3 +1,5 @@
+![image](https://github.com/Elheid/2431575-kekstagram-4/assets/115392171/873c13ca-130d-411a-acb6-f6d8b7db48fa)
+
 # Личный проект «Кекстаграм»
 
 * Студент: [Максим Комаров](https://up.htmlacademy.ru/univer-js1/4/user/2431575).
